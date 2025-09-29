@@ -3,11 +3,12 @@ import Ej1 from './Ej1'
 
 
 function Ej2() {
-  return (
+    return (
+
     
-      <Ej1 texto="Amigo" />
+    <Ej1 texto="Amigo" />
     
-  )
+    )
 }
 
 export default Ej2
